@@ -1,6 +1,6 @@
 # egg-graphql-boilerplate
 
-本项目是使用egg-graphql插件构建的graphql服务器
+本项目是跟随教程使用egg-graphql插件构建的graphql服务器探索项目
 
 ## installation
 
